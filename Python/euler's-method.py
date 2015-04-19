@@ -1,5 +1,5 @@
 """
-The program used Euler's approximation in order to compute a numerical solution
+The program uses Euler's approximation in order to compute a numerical solution
 to Ordinary Differential Equations in two variables.
 """
 def euler(f, x0, y0, h, xn):
